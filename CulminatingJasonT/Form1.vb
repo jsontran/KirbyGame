@@ -1,6 +1,6 @@
 ﻿Imports System.Drawing.Text
 Public Class Form1
-#Region "About the Game"
+#Region "About the Game."
     'Kirby Dreamland: Stage 1
 
     'By: Jason Tran
